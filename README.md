@@ -1,2 +1,1 @@
-# JavaScript-Challenge
-Password Generator
+# Password Generator Starter Code
